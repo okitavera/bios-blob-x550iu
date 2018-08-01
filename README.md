@@ -12,10 +12,10 @@
 * Faster GPU and Memory Clock for the Radeon RX 460.
 
 ## Instruction
-* Download AFUWINGUIx64 5.05.04
-* Get the modified bios : Patched-IU.307.rom
+* Download AFUWINGUIx64 5.05.04 : http://145.130.102.57/domoticx/software/amiflasher/AFUWIN%20Flasher%205.05.04.7z
+* Download the modified bios : https://github.com/yuune/bios-blob-x550iu/raw/master/Patched-IU.307.rom
 * PLUG-IN YOUR CHARGER
-* Open AFUWINGUI.exe (64bit) and open the BIOS-X550IUAS307-Modded.rom
+* Open AFUWINGUI.exe (64bit) and click open, then select Patched-IU.307.rom
 * Under Block Options, Select the "Main bios image" and "NVRAM"
 * Click "Flash" button
 * Wait until finish, then reboot.
